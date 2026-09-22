@@ -1,0 +1,9 @@
+{
+    "id": "web-publish",
+    "name": "Publish to Web",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "description": "Publish a note to a private, unlisted URL.",
+    "author": "Sean Fisher",
+    "isDesktopOnly": false
+}
